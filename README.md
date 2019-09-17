@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/andrewwilliamson0757/Contoso%20Airlines/_apis/build/status/AndrewWilliamsonFluent.ContosoAir?branchName=master)](https://dev.azure.com/andrewwilliamson0757/Contoso%20Airlines/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
